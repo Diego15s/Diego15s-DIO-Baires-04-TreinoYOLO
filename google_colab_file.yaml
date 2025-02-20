@@ -1,0 +1,8 @@
+path: '/content/gdrive/MyDrive/Colab_Notebooks/DIO/Base_de_Dados_e_Treinamento_da_Rede_YOLO/code/data'
+train: images/train
+val: images/train
+
+names: 
+  0: bird
+  1: butterfly
+  2: flower
